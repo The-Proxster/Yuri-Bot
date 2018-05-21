@@ -54,4 +54,4 @@ async def chibi(ctx):
 async def lewd(ctx):
     await bot.say("https://cdn.discordapp.com/attachments/436743371873058817/436998735269068801/t4fnga1356501.png")
 
-bot.run("NDM2ODYyNjM4Nzk0OTk3NzYw.DbvdQg.Fasfi5KvhTZnJkhm2uCQOsMY54c")
+bot.run("Nah.")
